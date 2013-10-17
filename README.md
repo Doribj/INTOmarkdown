@@ -17,6 +17,7 @@ notendanafn og lykilorð auk þess sem að vélinni þarf að gefa nafn og
 stærð á disk. Að lokum er gott að auka minnið sem að vélin á að hafa
 til afnota. Þegar að þessu er lokið er véln ræst í upphafs viðmóti 
 vmware og ubuntu er sett upp sjálfkrafa.
+![linux](https://f.cloud.github.com/assets/5690482/1351438/9142baa8-3725-11e3-98c1-1e95a4df9433.jpg)
 (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
 ## 2. Uppsetning á vim && git
