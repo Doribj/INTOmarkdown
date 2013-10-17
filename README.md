@@ -28,8 +28,8 @@ sudo apt-get install vim og sudo apt-get install git-core.
 Okkur gekk ágætlega að vinna með git. Fyrst vorum við í vandræðum með að senda inn commit frá 
 báðum aðilum en að lokum tókst það. Notaðar voru skipanirnar sem að kennarinn útvegaði á myschool.
 
-Vel gekk að forka verkefnið. Það var nokkuð áfallalaust fyrir sig þegar að farið var eftir  
-leiðbeiningunum úr myschool. https://github.com/Doribj/INTOPrufa.git
+Vel gekk að forka verkefnið. Þegar að hafðar voru til hliðsjónar leiðbeiningar af  myschool var
+frekar auðvelt að gera þetta. https://github.com/Doribj/INTOPrufa.git
 
 
 ## 4. Uppsettur hugbúnaður
