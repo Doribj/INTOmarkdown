@@ -23,7 +23,7 @@ vmware og ubuntu er sett upp sjálfkrafa.
 ## 2. Uppsetning á vim && git
 
 Nokkuð auðveldlega gekk að setja upp vim og git. Notaðar voru skipanirnar 
-sudo apt-get install vim og sudo apt-get install git-core.
+sudo apt-get install vim og sudo apt-get install git-core í terminal.
 
 ## 3. Unnið með Git (1. hluti)
 Okkur gekk ágætlega að vinna með git. Fyrst vorum við í vandræðum með að senda inn commit frá 
