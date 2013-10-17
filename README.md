@@ -34,23 +34,24 @@ frekar auðvelt að gera þetta. https://github.com/Doribj/INTOPrufa.git
 
 
 ## 4. Uppsettur hugbúnaður
-Open Office:
+<ul>
+<li>Open Office:
 Source code: http://www.openoffice.org/dev_docs/source/get_source.html
-License is LGPL.
-FileZilla
+License is LGPL.</li>
+ <li>FileZilla
 Source code:
 https://filezilla-project.org/download.php?type=client
-License is GPL.
-Putty:
+License is GPL.</li>
+<li>Putty:
 Source code: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
-License it has a MIT licence witch is compatible with the GNU GPL.
-Blender
+License: it has a MIT licence witch is compatible with the GNU GPL.</li>
+<li>Blender
 Source code: http://www.blender.org/download/source-code/
-License is GPL.
-Vlc:
+License is GPL.</li>
+<li>Vlc:
 Source code: http://www.videolan.org/vlc/download-sources.html
-License is LGPL.
-
+License is LGPL.</li>
+</ul>
 
 ## 5. Unnið með Git (2. hluti)
 
