@@ -8,7 +8,8 @@
 ## 1. Linux uppsetning
 
 Við settum upp ubuntu á Vmware player þar sem að við lentum í 
-miklum vandræðum með virtualbox á windows 8 vél. En þau skref 
+miklum vandræðum með linux mint í virtualbox á windows 8 vél. Betur gekk
+að setj ubuntu upp á vmware player en þau skref 
 sem að voru tekin til að setja upp ubuntu á vmware player voru 
 eftirfarandi: Create a new virtual machine, síðan er valin installer
 iso image skrá og þar sem að vmware þekkir iso skránna er notað easy 
